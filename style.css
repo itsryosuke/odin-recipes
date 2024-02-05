@@ -1,0 +1,36 @@
+.headings-one {
+    text-align:center;
+    background-color: blueviolet;
+    color: rgba(255, 254, 254, 0.795);
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.headings-two {
+    text-align: center;
+    background-color: rgb(9, 51, 51);
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+button {
+    background-color: rgb(59, 3, 61);
+    color: black;
+}
+
+.images {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    
+}
