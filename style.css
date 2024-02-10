@@ -34,3 +34,39 @@ p {
     text-align: center;
     
 }
+
+#main-heading {
+    background-color: blueviolet;
+    width: 600px;
+    height: auto;
+    padding: 8px 8px 8px 8px;
+    border: 8px;
+    margin: 16px auto;
+}
+
+.links {
+    width: 600px;
+    height: auto;
+    padding: 8px;
+    background-color: black;
+    margin:16px auto;
+}
+
+
+#linkone {
+    width: fit-content;
+    margin: 16px;
+    display: inline;
+}
+
+#linktwo {
+    width: fit-content;
+    display: inline;
+    margin: 16px;
+}
+
+#linkthree {
+    width: fit-content;
+    display: inline;
+    margin: 16px;
+}
